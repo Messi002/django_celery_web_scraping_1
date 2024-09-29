@@ -1,0 +1,6 @@
+This is where the celery and django applications are gonna live
+
+terminals------------
+redis
+jupyter
+celery
